@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+	<!-- Huaypapers -->
+	<wallpaper deleted="false">
+		<name>Alejandro Avellaneda</name>
+		<filename>/usr/share/images/huayra-backgrounds-huaypapers/alejandro_avellaneda/alejandro_avellaneda.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Dario Badagnani</name>
+		<filename>/usr/share/images/huayra-backgrounds-huaypapers/dario_badagnani/dario_badagnani.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Emanuel Alexander</name>
+		<filename>/usr/share/images/huayra-backgrounds-huaypapers/emanuel_alexander/emanuel_alexander.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Judas Frink 1</name>
+		<filename>/usr/share/images/huayra-backgrounds-huaypapers/judas_frink_1/judas_frink_1.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Judas Frink 2</name>
+		<filename>/usr/share/images/huayra-backgrounds-huaypapers/judas_frink_2/judas_frink_2.xml</filename>
+		<options>zoom</options>
+		<shade_type>vertical-gradient</shade_type>
+		<pcolor>#000000000000</pcolor>
+		<scolor>#000000000000</scolor>
+	</wallpaper>
+</wallpapers>
