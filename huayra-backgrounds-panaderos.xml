@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Panaderos -->
+    <wallpaper deleted="false">
+        <name>Serie Panaderos - Panadero #1</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/panaderos/panadero_01/panadero_01.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+        <wallpaper deleted="false">
+        <name>Serie Panaderos - Panadero #2</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/panaderos/panadero_02/panadero_02.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+        <wallpaper deleted="false">
+        <name>Serie Panaderos - Panadero #3</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/panaderos/panadero_03/panadero_03.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+        <wallpaper deleted="false">
+        <name>Serie Panaderos - Panadero #4</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/panaderos/panadero_04/panadero_04.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+        <wallpaper deleted="false">
+        <name>Serie Panaderos - Panadero #5</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/panaderos/panadero_05/panadero_05.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>
