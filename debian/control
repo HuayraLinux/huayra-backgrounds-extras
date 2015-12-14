@@ -235,3 +235,9 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de escritorios de Panaderos.
  Fondos de escritorio de panaderos. Fotografías de Patricia Andaur.
+
+Package: huayra-backgrounds-fractal
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorios Fractales.
+ Fondos de escritorio generados a partir de fractales.
