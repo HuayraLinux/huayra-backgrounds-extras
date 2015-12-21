@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Bloques -->
+    <wallpaper deleted="false">
+        <name>Serie Bloques - Bandera</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bloques/bandera/bandera.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Bloques - Campo</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bloques/campo/campo.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Bloques - Colores #1</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bloques/colores_01/colores_01.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Bloques - Colores #2</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bloques/colores_02/colores_02.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Bloques - Colores #3</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bloques/colores_03/colores_03.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Bloques - Desierto</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bloques/desierto/desierto.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Serie Bloques - Rojo</name>
+        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/bloques/rojo/rojo.xml</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>

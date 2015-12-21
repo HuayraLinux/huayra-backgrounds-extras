@@ -26,7 +26,9 @@ Depends: ${misc:Depends},
     huayra-backgrounds-regionales,
     huayra-backgrounds-viajero,
     huayra-backgrounds-liso,
-    huayra-backgrounds-huaypapers
+    huayra-backgrounds-huaypapers,
+    huayra-backgrounds-fractal,
+    huayra-backgrounds-bloques
 Description: Todos los fondos de pantalla extras de Huayra.
  Este paquete (dummy) instalará todos los fondos de escritorio de
  Huayra GNU/Linux.
@@ -233,11 +235,17 @@ Description: Pack de fondos de pantalla creados para el concurso Huaypapers.
 Package: huayra-backgrounds-panaderos
 Architecture: all
 Depends: ${misc:Depends}
-Description: Fondos de escritorios de Panaderos.
+Description: Fondos de escritorio de Panaderos.
  Fondos de escritorio de panaderos. Fotografías de Patricia Andaur.
 
 Package: huayra-backgrounds-fractal
 Architecture: all
 Depends: ${misc:Depends}
-Description: Fondos de escritorios Fractales.
+Description: Fondos de escritorio Fractales.
  Fondos de escritorio generados a partir de fractales.
+
+Package: huayra-backgrounds-bloques
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio geométricos.
+ Fondos de escritorio geométricos.
