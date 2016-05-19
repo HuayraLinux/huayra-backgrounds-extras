@@ -28,7 +28,8 @@ Depends: ${misc:Depends},
     huayra-backgrounds-liso,
     huayra-backgrounds-huaypapers,
     huayra-backgrounds-fractal,
-    huayra-backgrounds-bloques
+    huayra-backgrounds-bloques,
+    huayra-backgrounds-pixelarte
 Description: Todos los fondos de pantalla extras de Huayra.
  Este paquete (dummy) instalará todos los fondos de escritorio de
  Huayra GNU/Linux.
@@ -249,3 +250,9 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de escritorio geométricos.
  Fondos de escritorio geométricos.
+
+Package: huayra-backgrounds-pixelarte
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio Pixelarte.
+ Fondos de escritorio Pixelarte.
