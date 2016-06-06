@@ -29,7 +29,8 @@ Depends: ${misc:Depends},
     huayra-backgrounds-huaypapers,
     huayra-backgrounds-fractal,
     huayra-backgrounds-bloques,
-    huayra-backgrounds-pixelarte
+    huayra-backgrounds-pixelarte,
+    huayra-backgrounds-educar
 Description: Todos los fondos de pantalla extras de Huayra.
  Este paquete (dummy) instalará todos los fondos de escritorio de
  Huayra GNU/Linux.
@@ -256,3 +257,9 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de escritorio Pixelarte.
  Fondos de escritorio Pixelarte.
+
+Package: huayra-backgrounds-educar
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio de Educ.ar.
+ Fondos de escritorio de Educ.ar.
