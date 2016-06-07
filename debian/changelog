@@ -69,7 +69,7 @@ huayra-backgrounds-extras (0.9) torbellino; urgency=low
 
   * Serie de fondos Naturaleza. 
 
- -- Iván Hoffmann <digitalh@huayra-repos>  Tue, 28 Oct 2014 11:01:26 -0300
+ -- Iván Hoffmann <digital.h@gmail.com.ar>  Tue, 28 Oct 2014 11:01:26 -0300
 
 huayra-backgrounds-extras (0.8) unstable; urgency=medium
 
@@ -77,13 +77,13 @@ huayra-backgrounds-extras (0.8) unstable; urgency=medium
   * Fondos serie De Jong.
   * Fondos serie Cubista.
 
- -- Ivan Hoffmann <digitalh@huayra>  Wed, 26 Feb 2014 13:05:49 -0300
+ -- Ivan Hoffmann <digital.h@gmail.com.ar>  Wed, 26 Feb 2014 13:05:49 -0300
 
 huayra-backgrounds-extras (0.7) unstable; urgency=medium
 
   * Reestructuración del paquete. Fondos en múltiples resoluciones. Emprolijé el xml de backgrounds-extras y agregué el de community.
 
- -- Ivan Hoffmann <digitalh@huayra>  Mon, 24 Feb 2014 16:34:20 -0300
+ -- Ivan Hoffmann <digital.h@gmail.com.ar>  Mon, 24 Feb 2014 16:34:20 -0300
 
 huayra-backgrounds-extras (0.6) unstable; urgency=low
 
