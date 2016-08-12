@@ -4,7 +4,7 @@
     <!-- Serie Cubista -->
     <wallpaper deleted="false">
         <name>Serie Cubista - Campo de Panaderos</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/cubista/campo_panaderos/campo_panaderos.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/cubista/campo_panaderos/campo_panaderos.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Cubista - Cubista</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/cubista/cubista/cubista.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/cubista/cubista/cubista.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Cubista - Panadero Cubista</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/cubista/panadero_cubista/panadero_cubista.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/cubista/panadero_cubista/panadero_cubista.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Cubista - Vaca Cubista</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/cubista/vaca_cubista/vaca_cubista.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/cubista/vaca_cubista/vaca_cubista.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

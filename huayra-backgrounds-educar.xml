@@ -4,7 +4,7 @@
     <!-- Serie Liso -->
     <wallpaper deleted="false">
         <name>Educ.ar 01</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_1.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_1.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Educ.ar 02</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_2.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_2.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Educ.ar 03</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_3.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_3.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Educ.ar 04</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_4.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_4.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#98f7ff</pcolor>
@@ -36,7 +36,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Educ.ar 05</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_5.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/educar-2016/v1_wallpaper_5.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#797979</pcolor>

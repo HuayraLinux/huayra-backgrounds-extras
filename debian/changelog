@@ -1,6 +1,10 @@
-huayra-backgrounds-extras (0.20.1) UNRELEASED; urgency=medium
+huayra-backgrounds-extras (0.21) unstable; urgency=medium
 
+  [ Fernando Toledo ]
   * fix de lintian
+
+  [ Ivan Hoffmann ]
+  * Refactor de paquete para compatibilidad con Gnome y Mate.
 
  -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 09 Jun 2016 14:10:02 -0300
 

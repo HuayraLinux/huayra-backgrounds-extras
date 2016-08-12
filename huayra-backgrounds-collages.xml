@@ -4,7 +4,7 @@
     <!-- Serie Collages -->
     <wallpaper deleted="false">
         <name>Serie Collages - Agarrate</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/collages/agarrate/agarrate.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/collages/agarrate/agarrate.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Collages - Algo tiene que pasar</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/collages/algo_tiene_que_pasar/algo_tiene_que_pasar.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/collages/algo_tiene_que_pasar/algo_tiene_que_pasar.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Collages - Huayra en mi cabeza</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/collages/huayra_en_mi_cabeza/huayra_en_mi_cabeza.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/collages/huayra_en_mi_cabeza/huayra_en_mi_cabeza.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Collages - Vaca suelta</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/collages/vaca_suelta/vaca_suelta.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/collages/vaca_suelta/vaca_suelta.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

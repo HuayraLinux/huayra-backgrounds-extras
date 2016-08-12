@@ -8,8 +8,8 @@ Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
 Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-extras-all
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends},
     huayra-backgrounds-abstracto,
@@ -36,8 +36,8 @@ Description: Todos los fondos de pantalla extras de Huayra
  Huayra GNU/Linux.
 
 Package: huayra-backgrounds-abstracto
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Abstracto
@@ -56,8 +56,8 @@ Description: Fondos de pantalla serie Abstracto
  el dinamismo y caos de los combates a caballo.
 
 Package: huayra-backgrounds-bits
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Bits
@@ -69,8 +69,8 @@ Description: Fondos de pantalla serie Bits
  en una constante transformación.
 
 Package: huayra-backgrounds-burda
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Burda
@@ -88,8 +88,8 @@ Description: Fondos de pantalla serie Burda
  mientras que en 2010 se editó su primer libro, “Mundo Burda”.
 
 Package: huayra-backgrounds-collages
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Collages
@@ -100,8 +100,8 @@ Description: Fondos de pantalla serie Collages
  superponen con imágenes inventadas para buscar nuevos rumbos y significados.
 
 Package: huayra-backgrounds-cubista
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Cubista
@@ -113,8 +113,8 @@ Description: Fondos de pantalla serie Cubista
  cantidad de filtros y funciones avanzadas.
 
 Package: huayra-backgrounds-de-jong
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie De Jong
@@ -124,8 +124,8 @@ Description: Fondos de pantalla serie De Jong
  que renderiza mapas de Peter de Jong y luego manipuladas en GIMP.
 
 Package: huayra-backgrounds-experimental
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Experimental
@@ -136,8 +136,8 @@ Description: Fondos de pantalla serie Experimental
  vinculadas al uso de la netbook.
 
 Package: huayra-backgrounds-figurativo
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Figurativo
@@ -153,8 +153,8 @@ Description: Fondos de pantalla serie Figurativo
  ¡El ímpetu de Huayra hace que los humanos y hasta las vacas vuelen!
 
 Package: huayra-backgrounds-naturaleza
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Naturaleza
@@ -163,8 +163,8 @@ Description: Fondos de pantalla serie Naturaleza
  Fotografías de Iván Hoffmann.
 
 Package: huayra-backgrounds-origami
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Origami
@@ -177,8 +177,8 @@ Description: Fondos de pantalla serie Origami
  fuerza y guía. Un avión, un molino, un velero... una vaca!
 
 Package: huayra-backgrounds-pelis
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Pelis
@@ -186,8 +186,8 @@ Description: Fondos de pantalla serie Pelis
  Huayra GNU/Linux.
 
 Package: huayra-backgrounds-regionales
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Regionales
@@ -199,8 +199,8 @@ Description: Fondos de pantalla serie Regionales
  Buscate en tus colores.
 
 Package: huayra-backgrounds-viajero
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Viajero
@@ -213,8 +213,8 @@ Description: Fondos de pantalla serie Viajero
  las dificultades y entender el porqué de su existencia.
 
 Package: huayra-backgrounds-liso
-Breaks: huayra-backgrounds-extras ( <= 0.9)
-Replaces: huayra-backgrounds-extras ( <= 0.9)
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Liso
@@ -263,4 +263,3 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de escritorio de Educ.ar
  Pack de fondos de escritorio de Educ.ar.
-

@@ -4,7 +4,7 @@
 	<!-- Huayra Comunidad -->
 	<wallpaper deleted="false">
 		<name>Huayra Comunidad - Huayra Argentina (Federico Gazaba)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/Huayra-Argentina.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/Huayra-Argentina.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huayra Comunidad - Huayra B/N (Federico Gazaba)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/Huayra-BN.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/Huayra-BN.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huayra Comunidad - Huayra Cielo (Federico Gazaba)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/Huayra-cielo.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/Huayra-cielo.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huayra Comunidad - Huayra Concepto (Federico Gazaba)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/Huayra-concepto.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/Huayra-concepto.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -36,7 +36,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Alan Grinbu)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/alan_grinbu_01.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/alan_grinbu_01.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -44,7 +44,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Alan Grinbu)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/alan_grinbu_02.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/alan_grinbu_02.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -52,7 +52,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Alan Grinbu)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/alan_grinbu_03.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/alan_grinbu_03.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -60,7 +60,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Alan Grinbu)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/alan_grinbu_04.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/alan_grinbu_04.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -68,7 +68,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Alan Grinbu)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/alan_grinbu_05.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/alan_grinbu_05.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -76,7 +76,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Alan Grinbu)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/alan_grinbu_06.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/alan_grinbu_06.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -84,7 +84,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Alan Grinbu)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/alan_grinbu_07.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/alan_grinbu_07.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -92,7 +92,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Alan Grinbu)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/alan_grinbu_08.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/alan_grinbu_08.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -100,7 +100,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Dana Diaz)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/dana_diaz.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/dana_diaz.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -108,7 +108,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Dardo Sosa)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/dardo_sosa.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/dardo_sosa.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -116,7 +116,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Diego Accorinti)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/diego_accorinti.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/diego_accorinti.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -124,7 +124,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Elio)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/elio.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/elio.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -132,7 +132,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Facundo Aguirre)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/facundo_aguirre.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/facundo_aguirre.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -140,7 +140,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Fede Brest)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/fede_brest_01.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/fede_brest_01.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -148,7 +148,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Fede Brest)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/fede_brest_02.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/fede_brest_02.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -156,7 +156,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Fede Brest)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/fede_brest_03.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/fede_brest_03.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -164,7 +164,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Fer Crocioni)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/fer_crocioni.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/fer_crocioni.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -172,7 +172,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Gabriel Aramayo)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/gabriel_aramayo.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/gabriel_aramayo.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -180,7 +180,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Iara Quintana)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/iara_quintana.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/iara_quintana.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -188,7 +188,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Judas Frink)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/judas_frink.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/judas_frink.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>
@@ -196,7 +196,7 @@
 	</wallpaper>
 	<wallpaper deleted="false">
 		<name>Huaypapers (Patricia Soria y Rodrigo Manresa)</name>
-		<filename>/usr/share/images/huayra-backgrounds-community/volando_hacia_la_soberania_tecnologica_patricia-soria_rodrigo-manresa.jpg</filename>
+		<filename>/usr/share/backgrounds/huayra/huayra-backgrounds-community/volando_hacia_la_soberania_tecnologica_patricia-soria_rodrigo-manresa.jpg</filename>
 		<options>zoom</options>
 		<shade_type>vertical-gradient</shade_type>
 		<pcolor>#000000000000</pcolor>

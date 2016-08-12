@@ -4,7 +4,7 @@
     <!-- Serie Pelis -->
     <wallpaper deleted="false">
         <name>Serie Pelis - Tron</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/pelis/tron/tron.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/pelis/tron/tron.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

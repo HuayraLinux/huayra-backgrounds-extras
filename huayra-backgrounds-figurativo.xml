@@ -4,7 +4,7 @@
     <!-- Serie Figurativo -->
     <wallpaper deleted="false">
         <name>Serie Figurativo - Comunidad al Viento</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/comunidad_al_viento/comunidad_al_viento.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/figurativo/comunidad_al_viento/comunidad_al_viento.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Figurativo - Esperando</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/esperando/esperando.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/figurativo/esperando/esperando.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Figurativo - Las vacas vuelan</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/las_vacas_vuelan/las_vacas_vuelan.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/figurativo/las_vacas_vuelan/las_vacas_vuelan.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Figurativo - Ocre</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/ocre/ocre.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/figurativo/ocre/ocre.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -36,7 +36,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Figurativo - Vaca Volando (Martín Eschoyez)</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando/vaca_volando.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando/vaca_volando.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -44,7 +44,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Figurativo - Vaca Volando B (Martín Eschoyez)</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando_b/vaca_volando_b.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/figurativo/vaca_volando_b/vaca_volando_b.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -52,7 +52,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Figurativo - Viento azul</name>
-        <filename>/usr/share/images/huayra-backgrounds-extras/backgrounds/figurativo/viento_azul/viento_azul.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/figurativo/viento_azul/viento_azul.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
