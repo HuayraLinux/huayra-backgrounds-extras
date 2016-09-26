@@ -1,7 +1,7 @@
 Source: huayra-backgrounds-extras
 Section: graphics
 Priority: extra
-Maintainer: Ivan Hoffmann <digital.h@gmail.com>
+Maintainer: Iván Hoffmann <digital.h@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.6
 Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
@@ -30,7 +30,8 @@ Depends: ${misc:Depends},
     huayra-backgrounds-fractal,
     huayra-backgrounds-bloques,
     huayra-backgrounds-pixelarte,
-    huayra-backgrounds-educar
+    huayra-backgrounds-educar,
+    huayra-backgrounds-ocho
 Description: Todos los fondos de pantalla extras de Huayra
  Este paquete (dummy) instalará todos los fondos de escritorio de
  Huayra GNU/Linux.
@@ -263,3 +264,9 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de escritorio de Educ.ar
  Pack de fondos de escritorio de Educ.ar.
+
+Package: huayra-backgrounds-ocho
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio Huayra Ocho.
+ Pack de fondos de escritorio oficial de Huayra 4.0.
