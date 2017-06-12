@@ -32,6 +32,7 @@ Depends: ${misc:Depends},
     huayra-backgrounds-pixelarte,
     huayra-backgrounds-educar,
 	huayra-backgrounds-primaria-2017,
+	huayra-backgrounds-secundaria-2017,
     huayra-backgrounds-ocho
 Description: Todos los fondos de pantalla extras de Huayra
  Este paquete (dummy) instalará todos los fondos de escritorio de
@@ -271,6 +272,12 @@ Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de escritorio de Primaria Digital 2017
  Pack de fondos de escritorio de Primaria Digital 2017.
+
+Package: huayra-backgrounds-secundaria-2017
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio para secundarias 2017
+ Pack de fondos de escritorio para secundarias 2017.
 
 Package: huayra-backgrounds-ocho
 Architecture: all
