@@ -1,3 +1,9 @@
+huayra-backgrounds-cubista (0.25) unstable; urgency=medium
+
+  * Nuevo paquete serie Cubista.
+
+ -- Claudio Andaur <malefico3d@gmail.com>  Wed, 03 Oct 2018 12:01:57 -0300
+
 huayra-backgrounds-extras (0.24) unstable; urgency=medium
 
   * Non-maintainer upload.
