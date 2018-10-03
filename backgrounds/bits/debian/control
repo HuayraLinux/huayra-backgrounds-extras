@@ -1,0 +1,23 @@
+Source: huayra-backgrounds-bits
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-bits
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Bits
+ Este paquete instala la serie Bits de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Proponemos una fusión entre las formas geométricas de mitogramas de pueblos
+ originarios y la estética de los videojuegos clásicos de los años '80s como
+ Pacman, Tron o Space Invaders. Los bits se combinan uniendo épocas y culturas
+ en una constante transformación.
+
+

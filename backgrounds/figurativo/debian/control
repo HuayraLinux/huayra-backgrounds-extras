@@ -1,0 +1,23 @@
+Source: huayra-backgrounds-figurativo
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-figurativo
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Figurativo
+ Este paquete instala la serie Figurativo de los fondos de pantalla de
+ Huayra GNU/Linux.
+ El viento es una corriente de aire informe que solo podemos observar y apreciar
+ en relación a otros objetos. Así,  podemos ver cómo el viento empuja las hojas
+ del piso, sacude las ramas de un árbol o disemina las semillas una planta.
+ En estas imágenes trabajamos en torno a situaciones de objetos o personas
+ afectadas por el viento. Una brisa delicada y etérea impulsa a un panadero y lo
+ levanta para dar un paseo por el aire. O una ráfaga poderosa quebranta la ley
+ de la gravedad y arrastra todo con fuerza hacia el cielo.
+ ¡El ímpetu de Huayra hace que los humanos y hasta las vacas vuelen!

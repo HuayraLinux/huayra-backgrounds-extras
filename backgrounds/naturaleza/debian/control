@@ -1,0 +1,18 @@
+Source: huayra-backgrounds-naturaleza
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-naturaleza
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Naturaleza
+ Este paquete instala la serie Naturaleza de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Fotografías de Iván Hoffmann.
+
+

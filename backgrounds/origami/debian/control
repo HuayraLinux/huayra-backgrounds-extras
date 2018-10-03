@@ -1,0 +1,22 @@
+Source: huayra-backgrounds-origami
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-origami
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Origami
+ Este paquete instala la serie Origami de los fondos de pantalla de
+ Huayra GNU/Linux.
+ En el arte del origami los objetos son creados a partir de la misma hoja de
+ papel. La diferencia está en cómo plegarlo y el orden de las formas que se
+ suceden.
+ Proponemos maneras de movilizarse usando el viento, de hacer del viento tu
+ fuerza y guía. Un avión, un molino, un velero... una vaca!

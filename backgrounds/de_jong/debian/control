@@ -1,0 +1,19 @@
+Source: huayra-backgrounds-dejong
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+
+Package: huayra-backgrounds-dejong
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie De Jong
+ Este paquete instala la serie De Jong de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Serie de fondos creados a partir de imágenes generadas por el programa Fyre,
+ que renderiza mapas de Peter de Jong y luego manipuladas en GIMP.
+

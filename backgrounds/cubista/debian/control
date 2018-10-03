@@ -1,0 +1,20 @@
+Source: huayra-backgrounds-cubista
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+
+Package: huayra-backgrounds-cubista
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Cubista
+ Este paquete instala la serie Cubista de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Esta serie está inspirada en el movimiento Cubista  de principios de Siglo XX,
+ nacido en Francia y encabezado por Pablo Picasso, Georges Brauque y Juan Gris.
+ Para su realización utilizamos GIMP con el módulo G'MIC, que agrega una gran
+ cantidad de filtros y funciones avanzadas.

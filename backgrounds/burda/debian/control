@@ -1,0 +1,25 @@
+Source: huayra-backgrounds-burda
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-burda
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Burda
+ Este paquete instala la serie Burda de los fondos de pantalla de
+ Huayra GNU/Linux, realizados por Alejandro Burdisio.
+ Ilustraciones cedidas gentilmente por Alejandro Burdisio.
+ Alejandro (más conocido como "Burda") es cordobés y dibuja desde que tiene
+ memoria. Trabaja profesionalmente como ilustrador tanto para el rubro de la
+ arquitectura desde hace más de veinte años, como para diarios y diversos
+ proyectos editoriales, además participa como conceptualizador de arte visual
+ para empresas de video juegos, animaciones, cortometrajes y películas.
+ Y como buen cordobés, se rinde ante el humor. No desde hace muchos años,
+ comenzó a incursionar en el humor gráfico y en historietas. En estas últimas
+ facetas se encuentra publicando en la actualidad en la revista “La Murciélaga”,
+ mientras que en 2010 se editó su primer libro, “Mundo Burda”.

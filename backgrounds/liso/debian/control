@@ -1,0 +1,17 @@
+Source: huayra-backgrounds-liso
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-liso
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Liso
+ Este paquete instala la serie Liso de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Esta es la serie oficial de Huayra 3.0.
+

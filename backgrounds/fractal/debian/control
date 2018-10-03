@@ -1,0 +1,15 @@
+Source: huayra-backgrounds-fractal
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-fractal
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio Fractales
+ Fondos de escritorio generados a partir de fractales.
+

@@ -1,0 +1,160 @@
+huayra-backgrounds-extras (0.24) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Agregados fondos para secundaria made in Educar 
+
+ -- malefico <malefico3d@gmail.com>  Mon, 12 Jun 2017 12:53:05 -0300
+
+huayra-backgrounds-extras (0.23) torbellino; urgency=medium
+
+  * Agregra Fondos de la imagen de Primaria Digital 2017
+
+ -- Matias De lellis <mati86dl@gmail.com>  Fri, 19 May 2017 13:25:35 -0300
+
+huayra-backgrounds-extras (0.22) torbellino; urgency=medium
+
+  * Nueva serie Huayra Ocho, oficial de Huayra 4.0.
+
+ -- Iván Hoffmann <digital.h@gmail.com>  Mon, 26 Sep 2016 14:13:58 -0300
+
+huayra-backgrounds-extras (0.21) unstable; urgency=medium
+
+  [ Fernando Toledo ]
+  * fix de lintian
+
+  [ Ivan Hoffmann ]
+  * Refactor de paquete para compatibilidad con Gnome y Mate.
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 09 Jun 2016 14:10:02 -0300
+
+huayra-backgrounds-extras (0.20) torbellino; urgency=medium
+
+  * Fondos de pantalla oficiales de Educ.ar.
+
+ -- Iván Hoffmann <digital.h@gmail.com.ar>  Mon, 06 Jun 2016 14:13:07 -0300
+
+huayra-backgrounds-extras (0.19) torbellino; urgency=medium
+
+  * Nueva serie: Pixelarte. Nuevo fondo en Bloques.
+
+ -- Iván Hoffmann <digital.h@gmail.com.ar>  Thu, 19 May 2016 10:08:11 -0300
+
+huayra-backgrounds-extras (0.18) torbellino; urgency=medium
+
+  * Fix.
+
+ -- Iván Hoffmann <digital.h@gmail.com.ar>  Wed, 23 Dec 2015 14:48:03 -0300
+
+huayra-backgrounds-extras (0.17) torbellino; urgency=medium
+
+  * Nuevas series: Fractal y Bloques.
+
+ -- Iván Hoffmann <digital.h@gmail.com.ar>  Wed, 23 Dec 2015 09:52:11 -0300
+
+huayra-backgrounds-extras (0.16) torbellino; urgency=medium
+
+  * Nueva serie Panaderos. Fotos de Patricia Andaur.
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Wed, 30 Sep 2015 16:35:46 -0300
+
+huayra-backgrounds-extras (0.15) torbellino; urgency=medium
+
+  * Fix en instalador de Huaypapers.
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Mon, 14 Sep 2015 16:06:59 -0300
+
+huayra-backgrounds-extras (0.14) torbellino; urgency=medium
+
+  * Se agrega paquete Haypapers con los 5 finalistas y se suben
+    los otros a Comunidad.
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Mon, 14 Sep 2015 15:22:33 -0300
+
+huayra-backgrounds-extras (0.13) torbellino; urgency=medium
+
+  * Nuevo fondo Barrilete para Huayra Liso (Carolina Hortal).
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Fri, 20 Mar 2015 12:19:07 -0300
+
+huayra-backgrounds-extras (0.12) torbellino; urgency=medium
+
+  * Nuevos fondos de la serie Liso (Claudio Andaur, Carolina Hortal).
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Fri, 23 Jan 2015 15:36:42 -0300
+
+huayra-backgrounds-extras (0.11) torbellino; urgency=medium
+
+  * Agregando paquete de Huayra Liso.
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Mon, 19 Jan 2015 16:33:06 -0300
+
+huayra-backgrounds-extras (0.10) torbellino; urgency=low
+
+  * Reestructuración del paquete para separarlo en series. 
+
+ -- Ivan Hoffmann <digital.h@gmail.com>  Thu, 04 Dec 2014 12:51:45 -0300
+
+huayra-backgrounds-extras (0.9) torbellino; urgency=low
+
+  * Serie de fondos Naturaleza. 
+
+ -- Iván Hoffmann <digital.h@gmail.com.ar>  Tue, 28 Oct 2014 11:01:26 -0300
+
+huayra-backgrounds-extras (0.8) unstable; urgency=medium
+
+  * Fondos serie Regionales.
+  * Fondos serie De Jong.
+  * Fondos serie Cubista.
+
+ -- Ivan Hoffmann <digital.h@gmail.com.ar>  Wed, 26 Feb 2014 13:05:49 -0300
+
+huayra-backgrounds-extras (0.7) unstable; urgency=medium
+
+  * Reestructuración del paquete. Fondos en múltiples resoluciones. Emprolijé el xml de backgrounds-extras y agregué el de community.
+
+ -- Ivan Hoffmann <digital.h@gmail.com.ar>  Mon, 24 Feb 2014 16:34:20 -0300
+
+huayra-backgrounds-extras (0.6) unstable; urgency=low
+
+  * fondos de burda
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Mon, 03 Feb 2014 17:27:34 -0300
+
+huayra-backgrounds-extras (0.5) testing; urgency=low
+
+  * nuevos backgrounds de Pablo Lizardo
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 06 Jun 2013 12:07:46 -0300
+
+huayra-backgrounds-extras (0.4+nmu2) testing; urgency=low
+
+  * Se unifican permisos de las imágenes 
+
+ -- Luciano Baraglia <luciano.baraglia@gmail.com>  Fri, 15 Mar 2013 12:46:26 -0300
+
+huayra-backgrounds-extras (0.4+nmu1) testing; urgency=low
+
+  * Fondos nuevos gracias a Mercedes
+
+ -- Luciano Baraglia <luciano.baraglia@gmail.com>  Fri, 15 Mar 2013 12:29:38 -0300
+
+huayra-backgrounds-extras (0.4) testing; urgency=low
+
+  [ Julia Palandri ]
+  * Non-maintainer upload.
+  * Modified paths and xml file to work under mate 
+
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 08 Mar 2013 16:56:13 -0300
+
+huayra-backgrounds-extras (0.2) testing; urgency=low
+
+  * nuevo wallpapaer cabeza de ventilador
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 10 Jan 2013 17:30:06 -0300
+
+huayra-backgrounds-extras (0.1-1) wizy; urgency=low
+
+  * Initial release (Closes: XXX)
+
+ -- Miguel Angel Garcia <miguel.garcia@gmail.com>  Fri, 12 Oct 2012 15:47:41 -0300

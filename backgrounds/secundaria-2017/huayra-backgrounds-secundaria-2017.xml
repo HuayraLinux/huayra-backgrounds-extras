@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Liso - Fondos de Educ.ar-->
+    <wallpaper deleted="false">
+        <name>Huayra Secundaria 01</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/secundaria-2017/fondo-secundaria-01.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+        <wallpaper deleted="false">
+        <name>Huayra secundaria 02</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/secundaria-2017/fondo-secundaria-02.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Huayra secundaria 03</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/secundaria-2017/fondo-secundaria-03.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Huayra secundaria 04</name>
+        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/secundaria-2017/fondo-predeterminado-secundaria.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+
+</wallpapers>

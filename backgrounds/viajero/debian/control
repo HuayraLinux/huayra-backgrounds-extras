@@ -1,0 +1,23 @@
+Source: huayra-backgrounds-viajero
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-viajero
+Breaks: huayra-backgrounds-extras ( <= 0.20.1)
+Replaces: huayra-backgrounds-extras ( <= 0.20.1)
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Viajero
+ Este paquete instala la serie Viajero de los fondos de pantalla de
+ Huayra GNU/Linux.
+ "Viajero" es un proyecto de videojuego experimental creado por Pablo Lizardo,
+ desarrollado íntegramente con Software Libre (Inkscape para conceptos, Gimp
+ para texturas y Blender para interacción).
+ En medio de un entorno de soledad y misterio nuestro personaje buscará sortear
+ las dificultades y entender el porqué de su existencia.
+

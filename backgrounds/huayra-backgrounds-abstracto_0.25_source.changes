@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 02 Oct 2018 14:46:28 -0300
+Source: huayra-backgrounds-abstracto
+Binary: huayra-backgrounds-abstracto
+Architecture: source
+Version: 0.25
+Distribution: unstable
+Urgency: medium
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Changed-By: Claudio Andaur <malefico3d@gmail.com>
+Description:
+ huayra-backgrounds-abstracto - Fondos de pantalla serie Abstracto
+Changes:
+ huayra-backgrounds-abstracto (0.25) unstable; urgency=medium
+ .
+   * Separando paquete.
+Checksums-Sha1:
+ 6d8667ce9021ff124baef0751bba2c3eed2d076c 777 huayra-backgrounds-abstracto_0.25.dsc
+ a34968f3b7745ea7d7fc6f05e5fed8bcae8aca04 2844900 huayra-backgrounds-abstracto_0.25.tar.xz
+Checksums-Sha256:
+ 703b7b1c233f0870b9c2dd132418431ab90a5b07a9849e6bb4940d8268d90e3f 777 huayra-backgrounds-abstracto_0.25.dsc
+ 3d9e518dd500e3b634aaec779bdf095ec99ef89d1a4b841033577b6383972be1 2844900 huayra-backgrounds-abstracto_0.25.tar.xz
+Files:
+ 04ec07e92251fe6fdb009f18b6a165ed 777 graphics extra huayra-backgrounds-abstracto_0.25.dsc
+ b309058bfe4d78b3d610d90660f76902 2844900 graphics extra huayra-backgrounds-abstracto_0.25.tar.xz

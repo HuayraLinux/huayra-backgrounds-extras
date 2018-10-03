@@ -1,0 +1,26 @@
+Source: huayra-backgrounds-abstracto
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-abstracto
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Abstracto
+ Este paquete instala la serie Abstracto de los fondos de pantalla de
+ Huayra GNU/Linux.
+ En esta serie buscamos trabajar la idea de innovación y soberanía tecnológica.
+ Estas imágenes están inspiradas en el Arte concreto argentino de la década de
+ 1940. Se trata de una corriente de abstracción geométrica que postula que el
+ arte no debe representar o copiar la realidad. La obra de arte autónoma es una
+ realidad en sí misma: pura invención a partir de los elementos específicos del
+ lenguaje visual. Es un homenaje a maestros como Carmelo Arden Quin, Tomás
+ Maldonado y Lidy Prati, entre otros. También se incluyeron referencias formales
+ geométricas a mitogramas de culturas del noroeste argentino. Otra serie de
+ imágenes abstractas  vinculadas a las batallas de la independencia, trabajadas
+ con una paleta de color alusiva al uniforme de los granaderos. Se busca evocar
+ el dinamismo y caos de los combates a caballo.

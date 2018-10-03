@@ -1,0 +1,19 @@
+Source: huayra-backgrounds-experimental
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-experimental
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Experimental
+ Este paquete instala la serie Experimental de los fondos de pantalla de
+ Huayra GNU/Linux.
+ Imágenes vinculadas a diferentes propuestas gráficas en torno al logo de
+ Huayra.Trabajos con diferentes texturas plásticas y referencias a actividades
+ vinculadas al uso de la netbook.
+

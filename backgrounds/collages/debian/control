@@ -1,0 +1,18 @@
+Source: huayra-backgrounds-collages
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-collages
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de pantalla serie Collages
+ Este paquete instala la serie Collages de los fondos de pantalla de
+ Huayra GNU/Linux.
+ ¿Cómo transformar y subvertir el sentido corriente de las cosas? Los collage
+ son ensamblados de elementos diversos, fragmentos de la realidad que se
+ superponen con imágenes inventadas para buscar nuevos rumbos y significados.
