@@ -1,3 +1,9 @@
+huayra-backgrounds-bits (0.26) unstable; urgency=medium
+
+  * Fix de paquete
+
+ -- Claudio Andaur <malefico3d@gmail.com>  Thu, 04 Oct 2018 13:51:30 -0300
+
 huayra-backgrounds-bits (0.25) unstable; urgency=medium
 
   * Nuevo paquete con fondos serie Bits

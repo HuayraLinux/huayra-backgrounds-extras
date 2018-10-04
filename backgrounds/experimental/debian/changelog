@@ -1,3 +1,9 @@
+huayra-backgrounds-experimental (0.26) unstable; urgency=medium
+
+  * Fix
+
+ -- Claudio Andaur <malefico3d@gmail.com>  Thu, 04 Oct 2018 14:34:06 -0300
+
 huayra-backgrounds-experimental (0.25) unstable; urgency=medium
 
   * Nuevo paquete con serie Experimental.

@@ -1,3 +1,9 @@
+huayra-backgrounds-abstracto (0.26) unstable; urgency=medium
+
+  * Fix de paquete.
+
+ -- Claudio Andaur <malefico3d@gmail.com>  Thu, 04 Oct 2018 12:31:32 -0300
+
 huayra-backgrounds-abstracto (0.25) unstable; urgency=medium
 
   * Separando paquete.
