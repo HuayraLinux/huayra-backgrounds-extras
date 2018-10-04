@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-fractal
 Architecture: all
+Conflicts: huayra-backgrounds-fractal ( <= 0.25)
+Replaces: huayra-backgrounds-fractal ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de escritorio Fractales
  Fondos de escritorio generados a partir de fractales.

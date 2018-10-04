@@ -10,6 +10,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-cubista
 Architecture: all
+Conflicts: huayra-backgrounds-cubista ( <= 0.25)
+Replaces: huayra-backgrounds-cubista ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Cubista
  Este paquete instala la serie Cubista de los fondos de pantalla de

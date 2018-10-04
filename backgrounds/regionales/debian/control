@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-regionales
 Architecture: all
+Conflicts: huayra-backgrounds-regionales ( <= 0.25)
+Replaces: huayra-backgrounds-regionales ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Regionales
  Este paquete instala la serie Regionales de los fondos de pantalla de

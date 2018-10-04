@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-pixelarte
 Architecture: all
+Conflicts: huayra-backgrounds-pixelarte ( <= 0.25)
+Replaces: huayra-backgrounds-pixelarte ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de escritorio Pixelarte
  Pack de fondos de escritorio Pixelarte.

@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-panaderos
 Architecture: all
+Conflicts: huayra-backgrounds-panaderos ( <= 0.25)
+Replaces: huayra-backgrounds-panaderos ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de escritorio de Panaderos
  Fondos de escritorio de panaderos. Fotografías de Patricia Andaur.

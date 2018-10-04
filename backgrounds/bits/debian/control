@@ -8,8 +8,8 @@ Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
 Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-bits
-Breaks: huayra-backgrounds-extras ( <= 0.20.1)
-Replaces: huayra-backgrounds-extras ( <= 0.20.1)
+Conflicts: huayra-backgrounds-bits ( <= 0.25)
+Replaces: huayra-backgrounds-bits ( <= 0.25)
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Bits

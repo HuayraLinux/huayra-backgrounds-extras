@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-liso
 Architecture: all
+Conflicts: huayra-backgrounds-liso ( <= 0.25)
+Replaces: huayra-backgrounds-liso ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Liso
  Este paquete instala la serie Liso de los fondos de pantalla de

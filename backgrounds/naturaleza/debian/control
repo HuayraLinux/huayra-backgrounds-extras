@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-naturaleza
 Architecture: all
+Conflicts: huayra-backgrounds-naturaleza ( <= 0.25)
+Replaces: huayra-backgrounds-naturaleza ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Naturaleza
  Este paquete instala la serie Naturaleza de los fondos de pantalla de

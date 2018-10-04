@@ -10,6 +10,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 Package: huayra-backgrounds-abstracto
 Architecture: all
 Depends: ${misc:Depends}
+Conflicts: huayra-background-abstracto ( <= 0.25) 
+Replaces: huayra-backgrounds-abstracto ( <= 0.25)
 Description: Fondos de pantalla serie Abstracto
  Este paquete instala la serie Abstracto de los fondos de pantalla de
  Huayra GNU/Linux.

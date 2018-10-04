@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-experimental
 Architecture: all
+Conflicts: huayra-backgrounds-experimental ( <= 0.25)
+Replaces: huayra-backgrounds-experimental ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Experimental
  Este paquete instala la serie Experimental de los fondos de pantalla de

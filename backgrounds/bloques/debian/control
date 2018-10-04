@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-bloques
 Architecture: all
+Conflicts: huayra-backgrounds-bloques ( <= 0.25)
+Replaces: huayra-backgrounds-bloques ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de escritorio geométricos
  Pack de fondos de escritorio geométricos.

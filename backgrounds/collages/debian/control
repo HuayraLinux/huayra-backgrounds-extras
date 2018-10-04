@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-collages
 Architecture: all
+Conflicts: huayra-backgrounds-collages ( <= 0.25)
+Replaces: huayra-backgrounds-collages ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie Collages
  Este paquete instala la serie Collages de los fondos de pantalla de

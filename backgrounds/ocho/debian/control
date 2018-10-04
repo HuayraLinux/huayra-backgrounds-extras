@@ -9,6 +9,8 @@ Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 Package: huayra-backgrounds-ocho
 Architecture: all
+Conflicts: huayra-backgrounds-ocho ( <= 0.25)
+Replaces: huayra-backgrounds-ocho ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de escritorio Huayra Ocho.
  Pack de fondos de escritorio oficial de Huayra 4.0.
