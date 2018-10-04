@@ -4,7 +4,7 @@
     <!-- Serie Regionales -->
     <wallpaper deleted="false">
         <name>Serie Regionales - Cuyo</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/regionales/cuyo/cuyo.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/regionales/cuyo/cuyo.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Regionales - Mesopotamia</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/regionales/mesopotamia/mesopotamia.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/regionales/mesopotamia/mesopotamia.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Regionales - Pampa</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/regionales/pampa/pampa.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/regionales/pampa/pampa.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Regionales - Patagonia</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/regionales/patagonia/patagonia.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/regionales/patagonia/patagonia.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

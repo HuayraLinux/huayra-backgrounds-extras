@@ -4,7 +4,7 @@
     <!-- Serie Bits -->
     <wallpaper deleted="false">
         <name>Serie Bits - Fantasmas Wichi</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/bits/fantasmas_wichi/fantasmas_wichi.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/bits/fantasmas_wichi/fantasmas_wichi.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Bits - Invasores</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/bits/invasores/invasores.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/bits/invasores/invasores.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Bits - Laberintos</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/bits/laberintos/laberintos.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/bits/laberintos/laberintos.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

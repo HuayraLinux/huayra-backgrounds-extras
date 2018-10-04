@@ -4,7 +4,7 @@
     <!-- Serie Fractal -->
     <wallpaper deleted="false">
         <name>Serie Fractal - Arbol</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/fractal/arbol/arbol.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/fractal/arbol/arbol.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Fractal - Caribe</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/fractal/caribe/caribe.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/fractal/caribe/caribe.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Fractal - Galaxia</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/fractal/galaxia/galaxia.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/fractal/galaxia/galaxia.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Fractal - Oceano</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/fractal/oceano/oceano.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/fractal/oceano/oceano.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -36,7 +36,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Serie Fractal - Tapiz</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/fractal/tapiz/tapiz.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/fractal/tapiz/tapiz.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

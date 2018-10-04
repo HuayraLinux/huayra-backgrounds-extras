@@ -1,4 +1,4 @@
-Source: huayra-backgrounds-dejong
+Source: huayra-backgrounds-de-jong
 Section: graphics
 Priority: extra
 Maintainer: Claudio Andaur <malefico3d@gmail.com>
@@ -8,10 +8,10 @@ Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
 Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
 
 
-Package: huayra-backgrounds-dejong
+Package: huayra-backgrounds-de-jong
 Architecture: all
-Conflicts: huayra-backgrounds-dejong ( <= 0.25)
-Replaces: huayra-backgrounds-dejong ( <= 0.25)
+Conflicts: huayra-backgrounds-de-jong ( <= 0.25)
+Replaces: huayra-backgrounds-de-jong ( <= 0.25)
 Depends: ${misc:Depends}
 Description: Fondos de pantalla serie De Jong
  Este paquete instala la serie De Jong de los fondos de pantalla de

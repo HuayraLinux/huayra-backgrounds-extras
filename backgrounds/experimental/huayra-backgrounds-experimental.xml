@@ -4,7 +4,7 @@
     <!-- Serie Experimental -->
     <wallpaper deleted="false">
         <name>Serie Collages - Experiencia Huayra</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/experimental/experiencia_huayra/experiencia_huayra.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/experimental/experiencia_huayra/experiencia_huayra.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Collages - Huayra Motion</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/experimental/huayra_motion/huayra_motion.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/experimental/huayra_motion/huayra_motion.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Collages - Huayra Pandora</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/experimental/huayra_pandora/huayra_pandora.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/experimental/huayra_pandora/huayra_pandora.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Collages - Involución</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/experimental/involucion/involucion.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/experimental/involucion/involucion.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -36,7 +36,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Collages - Mosaicos</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/experimental/mosaicos/mosaicos.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/experimental/mosaicos/mosaicos.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

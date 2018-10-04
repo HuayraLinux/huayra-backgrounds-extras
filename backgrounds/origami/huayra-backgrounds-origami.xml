@@ -4,7 +4,7 @@
     <!-- Serie Origami -->
     <wallpaper deleted="false">
         <name>Serie Origami - Molino</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/origami/molino/molino.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/origami/molino/molino.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Origami - Nave</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/origami/nave/nave.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/origami/nave/nave.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Origami - Vaca</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/origami/vaca/vaca.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/origami/vaca/vaca.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Origami - Velero</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/origami/velero/velero.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/origami/velero/velero.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

@@ -4,7 +4,7 @@
     <!-- Serie Liso - Fondos de Educ.ar-->
     <wallpaper deleted="false">
         <name>Huayra Secundaria 01</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/secundaria-2017/fondo-secundaria-01.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/secundaria-2017/fondo-secundaria-01.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Huayra secundaria 02</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/secundaria-2017/fondo-secundaria-02.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/secundaria-2017/fondo-secundaria-02.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Huayra secundaria 03</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/secundaria-2017/fondo-secundaria-03.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/secundaria-2017/fondo-secundaria-03.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Huayra secundaria 04</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/secundaria-2017/fondo-predeterminado-secundaria.jpg</filename>
+        <filename>/usr/share/backgrounds/huayra/secundaria-2017/fondo-predeterminado-secundaria.jpg</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

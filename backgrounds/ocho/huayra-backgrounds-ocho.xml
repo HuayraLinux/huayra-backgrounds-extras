@@ -4,7 +4,7 @@
     <!-- Serie Bloques -->
     <wallpaper deleted="false">
         <name>Serie Ocho - Cueva</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/cueva/cueva.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/cueva/cueva.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Escalera</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/escalera/escalera.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/escalera/escalera.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Huayra</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/huayra/huayra.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/huayra/huayra.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Huayra 2</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/huayra2/huayra2.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/huayra2/huayra2.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -36,7 +36,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Multitud</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/multitud/multitud.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/multitud/multitud.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -44,7 +44,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Multitud 2</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/multitud2/multitud2.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/multitud2/multitud2.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -52,7 +52,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Pixeles</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/pixeles/pixeles.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/pixeles/pixeles.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -60,7 +60,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Pixeles 2</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/pixeles2/pixeles2.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/pixeles2/pixeles2.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -68,7 +68,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Pixeles 2b</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/pixeles2b/pixeles2b.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/pixeles2b/pixeles2b.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -76,7 +76,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Recursión</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/recursion/recursion.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/recursion/recursion.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -84,7 +84,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Tetris</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/ocho/tetris/tetris.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/ocho/tetris/tetris.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

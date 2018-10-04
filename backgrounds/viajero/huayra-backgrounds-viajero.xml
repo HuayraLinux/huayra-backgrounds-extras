@@ -4,7 +4,7 @@
     <!-- Serie Viajero -->
     <wallpaper deleted="false">
         <name>Serie Viajero - Viajero 1</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/viajero/viajero1/viajero1.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/viajero/viajero1/viajero1.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Viajero - Viajero 2</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/viajero/viajero2/viajero2.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/viajero/viajero2/viajero2.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Viajero - Viajero 3</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/viajero/viajero3/viajero3.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/viajero/viajero3/viajero3.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Viajero - Viajero 4</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/viajero/viajero4/viajero4.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/viajero/viajero4/viajero4.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -36,7 +36,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Viajero - Viajero 5</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/viajero/viajero5/viajero5.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/viajero/viajero5/viajero5.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>

@@ -4,7 +4,7 @@
     <!-- Serie Liso -->
     <wallpaper deleted="false">
         <name>Serie Liso - 01</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/liso_01/liso_01.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/liso_01/liso_01.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Serie Liso - Barrilete</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/barrilete/barrilete.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/barrilete/barrilete.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -20,7 +20,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Liso - Bucólica</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/bucolica/bucolica.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/bucolica/bucolica.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -28,7 +28,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Liso - Bucólica Transparente</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/bucolica_transp/bucolica_transp.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/bucolica_transp/bucolica_transp.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#98f7ff</pcolor>
@@ -36,7 +36,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Liso - Vaca Globo #1</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/vaca_globo_01/vaca_globo_01.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/vaca_globo_01/vaca_globo_01.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#797979</pcolor>
@@ -44,7 +44,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Liso - Vaca Globo #2</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/vaca_globo_02/vaca_globo_02.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/vaca_globo_02/vaca_globo_02.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#5fbcd3</pcolor>
@@ -52,7 +52,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Liso - Netbook</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/netbook/netbook.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/netbook/netbook.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -60,7 +60,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Liso - Vaca Flat #1</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/vaca_flat_01/vaca_flat_01.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/vaca_flat_01/vaca_flat_01.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#5fbcd3</pcolor>
@@ -68,7 +68,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Liso - Ventilador</name>
-        <filename>/usr/share/backgrounds/huayra/huayra-backgrounds-extras/backgrounds/liso/ventilador/ventilador.xml</filename>
+        <filename>/usr/share/backgrounds/huayra/liso/ventilador/ventilador.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
