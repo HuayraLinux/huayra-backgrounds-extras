@@ -4,6 +4,7 @@
     <!-- Serie Bits -->
     <wallpaper deleted="false">
         <name>Serie Bits - Fantasmas Wichi</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/bits/fantasmas_wichi/fantasmas_wichi.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -12,6 +13,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Bits - Invasores</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/bits/invasores/invasores.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -20,6 +22,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Bits - Laberintos</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/bits/laberintos/laberintos.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>

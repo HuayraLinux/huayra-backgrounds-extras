@@ -4,6 +4,7 @@
     <!-- Serie Panaderos -->
     <wallpaper deleted="false">
         <name>Serie Panaderos - Panadero #1</name>
+        <artist>Patricia Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/panaderos/panadero_01/panadero_01.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -12,6 +13,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Serie Panaderos - Panadero #2</name>
+        <artist>Patricia Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/panaderos/panadero_02/panadero_02.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -20,6 +22,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Serie Panaderos - Panadero #3</name>
+        <artist>Patricia Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/panaderos/panadero_03/panadero_03.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -28,6 +31,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Serie Panaderos - Panadero #4</name>
+        <artist>Patricia Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/panaderos/panadero_04/panadero_04.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -36,6 +40,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Serie Panaderos - Panadero #5</name>
+        <artist>Patricia Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/panaderos/panadero_05/panadero_05.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>

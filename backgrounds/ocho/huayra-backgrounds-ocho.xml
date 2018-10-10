@@ -4,6 +4,7 @@
     <!-- Serie Bloques -->
     <wallpaper deleted="false">
         <name>Serie Ocho - Cueva</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/cueva/cueva.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -12,6 +13,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Escalera</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/escalera/escalera.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -20,6 +22,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Huayra</name>
+        <artist>Carolina Hortal</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/huayra/huayra.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -28,6 +31,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Huayra 2</name>
+        <artist>Iván Hoffmann</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/huayra2/huayra2.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -36,6 +40,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Multitud</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/multitud/multitud.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -44,6 +49,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Multitud 2</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/multitud2/multitud2.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -52,6 +58,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Pixeles</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/pixeles/pixeles.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -60,6 +67,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Pixeles 2</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/pixeles2/pixeles2.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -68,6 +76,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Pixeles 2b</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/pixeles2b/pixeles2b.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -76,6 +85,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Recursión</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/recursion/recursion.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -84,6 +94,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Serie Ocho - Tetris</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/ocho/tetris/tetris.xml</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>

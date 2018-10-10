@@ -4,6 +4,7 @@
     <!-- Serie Liso -->
     <wallpaper deleted="false">
         <name>Huayra Primaria 01</name>
+        <artist>Carolina Hortal</artist>
         <filename>/usr/share/backgrounds/huayra/primaria-2017/fondo_primaria1.png</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -12,6 +13,7 @@
     </wallpaper>
         <wallpaper deleted="false">
         <name>Huayra Primaria 02</name>
+        <artist>Carolina Hortal</artist>
         <filename>/usr/share/backgrounds/huayra/primaria-2017/fondo_primaria2.png</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -20,6 +22,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Huayra Primaria 03</name>
+        <artist>Carolina Hortal</artist>
         <filename>/usr/share/backgrounds/huayra/primaria-2017/fondo_primaria3.png</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -28,6 +31,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Huayra Primaria 04</name>
+        <artist>Carolina Hortal</artist>
         <filename>/usr/share/backgrounds/huayra/primaria-2017/fondo_primaria4.png</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -36,6 +40,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Huayra Primaria 05</name>
+        <artist>Carolina Hortal</artist>
         <filename>/usr/share/backgrounds/huayra/primaria-2017/fondo_primaria5.png</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
@@ -44,6 +49,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Huayra Primaria 06</name>
+        <artist>Claudio Andaur</artist>
         <filename>/usr/share/backgrounds/huayra/primaria-2017/fondo_primaria6.png</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>

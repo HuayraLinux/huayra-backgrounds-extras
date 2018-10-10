@@ -1,3 +1,9 @@
+huayra-backgrounds-primaria-2017 (0.27) unstable; urgency=medium
+
+  * Fix paths en XML. Inclui autores conocidos.
+
+ -- Claudio Andaur <malefico3d@gmail.com>  Wed, 10 Oct 2018 11:35:41 -0300
+
 huayra-backgrounds-primaria-2017 (0.26) unstable; urgency=medium
 
   * Fix

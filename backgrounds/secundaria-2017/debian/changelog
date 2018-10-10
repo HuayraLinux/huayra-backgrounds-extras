@@ -1,3 +1,9 @@
+huayra-backgrounds-secundaria-2017 (0.27) UNRELEASED; urgency=medium
+
+  * Fix en path en XML.
+
+ -- Claudio Andaur <malefico3d@gmail.com>  Wed, 10 Oct 2018 11:51:18 -0300
+
 huayra-backgrounds-secundaria-2017 (0.26) unstable; urgency=medium
 
   * Fix
