@@ -1,0 +1,14 @@
+Source: huayra-backgrounds-juana-manso-2020
+Section: graphics
+Priority: extra
+Maintainer: Claudio Andaur <malefico3d@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.6
+Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
+Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+
+Package: huayra-backgrounds-juana-manso-2020
+Architecture: all
+Depends: ${misc:Depends}
+Description: Fondos de escritorio de Juana Manso 2020
+ Pack de fondos de escritorio de Juana Manso 2020.

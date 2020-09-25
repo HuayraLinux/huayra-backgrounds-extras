@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Juana Manso 2020 -->
+    <wallpaper deleted="false">
+        <name>Juana Manso 01</name>
+        <filename>/usr/share/backgrounds/huayra/juana-manso-2020/JM_Wallpapers-01.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Juana Manso 02</name>
+        <filename>/usr/share/backgrounds/huayra/juana-manso-2020/JM_Wallpapers-02.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Juana Manso 03</name>
+        <filename>/usr/share/backgrounds/huayra/juana-manso-2020/JM_Wallpapers-03.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Juana Manso 04</name>
+        <filename>/usr/share/backgrounds/huayra/juana-manso-2020/JM_Wallpapers-04.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Juana Manso 05</name>
+        <filename>/usr/share/backgrounds/huayra/juana-manso-2020/JM_Wallpapers-05.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Juana Manso 06</name>
+        <filename>/usr/share/backgrounds/huayra/juana-manso-2020/JM_Wallpapers-06.jpg</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>
