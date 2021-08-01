@@ -1,14 +1,15 @@
 Source: huayra-backgrounds-santa-cruz
 Section: graphics
-Priority: extra
+Priority: optional
 Maintainer: Claudio Andaur <malefico3d@gmail.com>
 Build-Depends: debhelper (>= 10.0.0)
 Standards-Version: 4.3.0
 Homepage: https://github.com/HuayraLinux/huayra-backgrounds-extras
 Vcs-Git: https://github.com/HuayraLinux/huayra-backgrounds-extras.git
+Vcs-Browser: https://github.com/HuayraLinux/huayra-backgrounds-extras
 
 Package: huayra-backgrounds-santa-cruz
 Architecture: all
 Depends: ${misc:Depends}
 Description: Fondos de escritorio de Santa Cruz
- Pack de fondos de escritorio de Santa Cruz.
+ Pack de fondos de escritorio de Santa Cruz para Huayra GNU/Linux.
