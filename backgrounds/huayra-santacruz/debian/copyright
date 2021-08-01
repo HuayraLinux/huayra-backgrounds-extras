@@ -2,6 +2,11 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: huayra-backgrounds-santa-cruz
 Source: https://huayra.educar.gob.ar
 
+
+Files: *
+Copyright: 2021 Fernando Toledo <ragnarok@docksud.com.ar>
+License: GPL-2+
+
 Files: debian/*
 Copyright: 2012 Miguel Angel Garcia <miguel.garcia@gmail.com>
            2014 Iván Hoffmann <digital.h@gmail.com>
