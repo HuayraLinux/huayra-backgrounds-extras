@@ -1,3 +1,10 @@
+huayra-backgrounds-santa-cruz (1.0+nmu2) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * fix copyright y typos en el xml
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Sun, 01 Aug 2021 00:01:28 -0300
+
 huayra-backgrounds-santa-cruz (1.0+nmu1) unstable; urgency=medium
 
   * Version Inicial
