@@ -4,7 +4,7 @@
     <!-- Serie Santa Cruz -->
     <wallpaper deleted="false">
         <name>Santa Cruz 01</name>
-        <filename>/usr/share/backgrounds/huayra/santa-gruz/Wallpaper_oficial.png</filename>
+        <filename>/usr/share/backgrounds/huayra/santa-cruz/Wallpaper_oficial.png</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
@@ -12,7 +12,7 @@
     </wallpaper>
     <wallpaper deleted="false">
         <name>Santa Cruz 02</name>
-        <filename>/usr/share/backgrounds/huayra/santa-cruz/huayra_satancruz_1366x768.png</filename>
+        <filename>/usr/share/backgrounds/huayra/santa-cruz/huayra_santacruz_1366x768.png</filename>
         <options>zoom</options>
         <shade_type>vertical-gradient</shade_type>
         <pcolor>#000000000000</pcolor>
