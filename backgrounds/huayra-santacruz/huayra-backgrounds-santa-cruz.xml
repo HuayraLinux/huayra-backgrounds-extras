@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "mate-wp-list.dtd">
+<wallpapers>
+    <!-- Serie Santa Cruz -->
+    <wallpaper deleted="false">
+        <name>Santa Cruz 01</name>
+        <filename>/usr/share/backgrounds/huayra/santa-gruz/Wallpaper_oficial.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Santa Cruz 02</name>
+        <filename>/usr/share/backgrounds/huayra/santa-cruz/huayra_satancruz_1366x768.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Santa Cruz 03</name>
+        <filename>/usr/share/backgrounds/huayra/santa-cruz/wallpaper_logo_1920x1080.png</filename>
+        <options>zoom</options>
+        <shade_type>vertical-gradient</shade_type>
+        <pcolor>#000000000000</pcolor>
+        <scolor>#000000000000</scolor>
+    </wallpaper>
+</wallpapers>
